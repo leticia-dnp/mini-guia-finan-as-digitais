@@ -1,4 +1,5 @@
-📊 Finanças Digitais – Criptomoedas, Tokenização & IA | Explorando o NotebookLM
+# 📊 Finanças Digitais – Criptomoedas, Tokenização & IA | Explorando o NotebookLM
+(---)
 
 Projeto 1/2 – Bootcamp DIO + Bradesco: GenAI & Dados.
 
